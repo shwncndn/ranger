@@ -1,6 +1,6 @@
 # Testing Phoenix Liveview
 
-## topics covered:
+## Topics Covered:
 
 - `conn` struct for mounting liveview in each test
 - `live/2` for automatic stateless request/websocket upgrade
